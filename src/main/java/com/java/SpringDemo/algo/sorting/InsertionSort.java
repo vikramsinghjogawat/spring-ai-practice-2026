@@ -28,7 +28,6 @@ public class InsertionSort {
 
     public static void printArr(int[] nums) {
         for(int i: nums) System.out.print(i+",");
-
     }
 
 }
